@@ -39,6 +39,6 @@
   
   <h4>18 - Grau do Vertice</h4>Recebe um vertice como entrada e retorna um numero inteiro referente ao seu grau.
   
-  <h4>19 - Caminho</h4><br>Essa função faz a tabela de Dijkstra, e com isso ela pega o ponto de partida e encontra o caminho mais curto para todos os outros vertices.
+  <h4>19 - Caminho</h4>Essa função faz a tabela de Dijkstra, e com isso ela pega o ponto de partida e encontra o caminho mais curto para todos os outros vertices.
   
  
